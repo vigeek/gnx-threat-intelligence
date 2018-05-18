@@ -1,2 +1,2 @@
-# radiant-threat-intelligence
-radiant-threat-intelligence
+# gnx-threat-intelligence
+gnx-threat-intelligence
